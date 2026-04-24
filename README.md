@@ -3,6 +3,6 @@
 # Pre-requisites
 1. 3 EC2 instances
 
-      #!/bin/bash
-      mkdir deploy
-      touch deploy/text.txt
+          #!/bin/bash
+          mkdir deploy
+          touch deploy/text.txt
